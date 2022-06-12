@@ -5,3 +5,4 @@ Steps to run the project:
 3. In the browser, type this url: http://localhost/phpmyadmin/index.php
 4. Import the database- movieliv.sql
 5. to open the home page, type this url in the next tab- http://localhost/movielib/index.php
+6. The movies that are displayed on the home page are added through admin form.
