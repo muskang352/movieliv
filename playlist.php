@@ -139,7 +139,7 @@ if(!isset($_SESSION['username'])){
             <?php
         }}}
         else{
-            echo "<h2 class='text-center text-danger'>Cart is empty</h2>";
+            echo "<h2 class='text-center text-danger'>Playlist is empty</h2>";
         }
         ?>
             </tbody>
